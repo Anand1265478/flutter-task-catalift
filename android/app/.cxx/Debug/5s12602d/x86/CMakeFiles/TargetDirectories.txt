@@ -1,0 +1,2 @@
+C:/development/Catalift Clone/catalift_clone/android/app/.cxx/Debug/5s12602d/x86/CMakeFiles/edit_cache.dir
+C:/development/Catalift Clone/catalift_clone/android/app/.cxx/Debug/5s12602d/x86/CMakeFiles/rebuild_cache.dir
